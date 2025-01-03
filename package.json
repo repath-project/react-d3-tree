@@ -1,13 +1,13 @@
 {
-  "name": "react-d3-tree",
-  "version": "3.6.2",
+  "name": "@repath-project/react-d3-tree",
+  "version": "3.6.3",
   "description": "React component to create interactive D3 tree hierarchies",
   "author": "Ben Kremer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bkrem/react-d3-tree/issues"
+    "url": "https://github.com/repath-project/react-d3-tree/issues"
   },
-  "homepage": "https://github.com/bkrem/react-d3-tree",
+  "homepage": "https://github.com/repath-project/react-d3-tree",
   "files": [
     "lib"
   ],
@@ -85,8 +85,8 @@
     "uuid": "^8.3.1"
   },
   "peerDependencies": {
-    "react": "16.x || 17.x || 18.x",
-    "react-dom": "16.x || 17.x || 18.x"
+    "react": "16.x || 17.x || 18.x || 19.x",
+    "react-dom": "16.x || 17.x || 18.x || 19.x"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
